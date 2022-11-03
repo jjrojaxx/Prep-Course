@@ -1,0 +1,28 @@
+* Objetos:
+Un objeto es una entidad independiente que posee propiedas tipos de datos
+en un objeto podemos guardad carateriscas de un auto por ejmeplo.
+
+``
+carro = {
+    rines: "15",
+    motor: "8 cilitros",
+    color: "Blue";
+    }
+``
+* Propiedades:
+Las propiedas son expresiones de un objeto o las carateristicas de un objeto.
+
+* Métodos:
+Un metodo es una funcion que esta guardada dentro de un objeto.
+
+* Bucle `for…in:
+Un Blucle es como una funcion, solo que cumple una condicion si la condicion no se cumple
+el Blucle se repite hasta que esa condicion sea cumplida.
+
+** Notación de puntos vs notación de corchetes. **
+
+la notación con corchetes espesifica la propiedad con su dato 
+
+la notación con punto espesifica la propiedad
+
+

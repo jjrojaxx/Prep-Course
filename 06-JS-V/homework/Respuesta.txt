@@ -1,0 +1,7 @@
+* prototype:
+es como un estancia que recibe datos de un objeto y esos objetos se pueden heredar 
+a otros prototipos
+
+* _Constructors_ (de Clases): 
+un Construtor de clases es algo parecido a una funcion, guarda datos para luego utilizarlos 
+de manera dinamica cuando digo de manera dinamica me estoy refiriendo que es reutilizable.

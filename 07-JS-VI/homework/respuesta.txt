@@ -1,0 +1,3 @@
+Funciones Callback:
+Una Funcion Callback es una Funcion que se pasa por un parametro.
+

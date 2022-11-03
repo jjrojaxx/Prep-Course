@@ -20,7 +20,7 @@
 
 * `Undefined` y `null`
 * Operadores de comparación (continuación)
-* Flujos de control (continuación)
+* Operadores de comparación (continuación)
 * Operados lógicos
 * Bucles `for`
 * `arguments` -->
